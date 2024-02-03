@@ -22,6 +22,10 @@ An eCommerce Content Management System, (or, more specifically,) the back-end of
 ## Credits & Sources
 
 Information and documentation used in the creation of this app, but external to the EdX UofT Full-Stack Software Development Bootcamp including syntaxes, best practises and instructional examples for usage came from the following sources:
+- https://sequelize.org/docs/v6/core-concepts/assocs/
+- https://sequelize.org/docs/v6/core-concepts/model-basics/#extending-model
+- https://sequelize.org/docs/v6/core-concepts/model-basics/#model-synchronization
+- https://sequelize.org/docs/v6/core-concepts/model-basics/#data-types
 - 
 
 ## License
