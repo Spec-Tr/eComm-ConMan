@@ -11,7 +11,7 @@ Product.init(
   {
     // define columns
     product_name: {
-      type: DataType.STRING,
+      type: DataTypes.STRING,
       allowNull: false,
     },
     price: {
